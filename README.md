@@ -1,5 +1,6 @@
 ## LiTTLE RiDDLE? AL!CE
 
+![LRA](https://github.com/lirialice/lirialice/blob/main/33.png)
 
 
 <!--
