@@ -13,7 +13,7 @@ With the decentralized nature of blockchains, LiRiAL!CE brings all kinds of capt
 
 [![bot](https://img.shields.io/badge/bot-lirial!ce-4ADDF9.svg?style=for-the-badge&logo=probot&logoColor=white)](https://lirialice.io)
 
-[![website](https://img.shields.io/badge/website-lirial!ce-4ADDF9.svg?style=for-the-badge&logo=esri&logoColor=white)](https://lirialice.io)
+[![website](https://img.shields.io/badge/website-lirial!ce-4ADDF9.svg?style=for-the-badge&logo=googlehome&logoColor=white)](https://lirialice.io)
 
 [![telegram](https://img.shields.io/badge/telegram-lirial!ce-4ADDF9.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://lirialice.io)
 
