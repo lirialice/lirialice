@@ -10,16 +10,15 @@ Just as AL!CE’s imagination knows no limits, the Aliverse has no rules or boun
 With the decentralized nature of blockchains, LiRiAL!CE brings all kinds of captivating content for Alicians to enjoy, including webtoons, games, NFTs, and more.
 
 ## Link
+<img src="https://github.com/lirialice/lirialice/blob/main/Asset%2B1%40300x.png" height="30"> &nbsp;[Bot](https://lirialice.io)
 
-💫 [Bot](https://lirialice.io)
+<img src="https://github.com/lirialice/lirialice/blob/main/Asset%2B1%40300x.png" height="30"> &nbsp;[Website](https://lirialice.io)
 
-💫 [Website](https://lirialice.io)
+<img src="https://github.com/lirialice/lirialice/blob/main/Asset%2B1%40300x.png" height="30"> &nbsp;[Telegram](https://lirialice.io)
 
-💫 [Telegram](https://lirialice.io)
+<img src="https://github.com/lirialice/lirialice/blob/main/Asset%2B1%40300x.png" height="30"> &nbsp;[X](https://lirialice.io)
 
-💫 [X](https://lirialice.io)
-
-💫 [Whitepaper](https://app.gitbook.com/o/WngDNa1CdcHbyrIVqPNs/s/V7NJ8N9e3Pq6kWr1Dy53/)
+<img src="https://github.com/lirialice/lirialice/blob/main/Asset%2B1%40300x.png" height="30"> &nbsp;[Whitepaper](https://app.gitbook.com/o/WngDNa1CdcHbyrIVqPNs/s/V7NJ8N9e3Pq6kWr1Dy53/)
 
 - - -
 
