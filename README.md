@@ -25,14 +25,4 @@ With the decentralized nature of blockchains, LiRiAL!CE brings all kinds of capt
 
 ![LRA3](https://github.com/lirialice/lirialice/blob/main/44.png)
 
-<p align="center"> <img src="https://github.com/lirialice/lirialice/blob/main/a.png" height="50"> <img src="https://github.com/lirialice/lirialice/blob/main/l.png" height="50"> <img src="https://github.com/lirialice/lirialice/blob/main/i.png" height="50"> <img src="https://github.com/lirialice/lirialice/blob/main/c.gif" height="80"> <img src="https://github.com/lirialice/lirialice/blob/main/e.png" height="50"> </p>
-
-<table border="0">
-  <tr valign="top">
-    <td><img src="https://github.com/lirialice/lirialice/blob/main/a.png" height="50"></td>
-    <td><img src="https://github.com/lirialice/lirialice/blob/main/l.png" height="50"></td>
-    <td><img src="https://github.com/lirialice/lirialice/blob/main/i.png" height="50"></td>
-    <td><img src="https://github.com/lirialice/lirialice/blob/main/c.gif" height="85"></td>
-    <td><img src="https://github.com/lirialice/lirialice/blob/main/e.png" height="50"></td>
-  </tr>
-</table>
+<p align="center"> <img src="https://github.com/lirialice/lirialice/blob/main/aa.png" height="80"> <img src="https://github.com/lirialice/lirialice/blob/main/ll.png" height="80"> <img src="https://github.com/lirialice/lirialice/blob/main/ii.png" height="80"> <img src="https://github.com/lirialice/lirialice/blob/main/c.gif" height="85"> <img src="https://github.com/lirialice/lirialice/blob/main/ee.png" height="80"> </p>
