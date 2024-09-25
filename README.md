@@ -1,7 +1,5 @@
 ## LiTTLE RiDDLE? AL!CE
 
-<p align="center"> <img src="https://github.com/lirialice/lirialice/blob/main/aa.png" height="80"> <img src="https://github.com/lirialice/lirialice/blob/main/ll.png" height="80"> <img src="https://github.com/lirialice/lirialice/blob/main/ii.png" height="80"> <img src="https://github.com/lirialice/lirialice/blob/main/c.gif" height="85"> <img src="https://github.com/lirialice/lirialice/blob/main/ee.png" height="80"> </p>
-
 ![LRA3](https://github.com/lirialice/lirialice/blob/main/33.png)
 
 ### Fantasy for Fun, Airdrop for Real!
@@ -27,4 +25,8 @@ With the decentralized nature of blockchains, LiRiAL!CE brings all kinds of capt
 
 ![LRA3](https://github.com/lirialice/lirialice/blob/main/44.png)
 
-<p align="center"> <img src="https://github.com/lirialice/lirialice/blob/main/aa.png" height="80"> <img src="https://github.com/lirialice/lirialice/blob/main/ll.png" height="80"> <img src="https://github.com/lirialice/lirialice/blob/main/ii.png" height="80"> <img src="https://github.com/lirialice/lirialice/blob/main/c.gif" height="85"> <img src="https://github.com/lirialice/lirialice/blob/main/ee.png" height="80"> </p>
+<p align="center">
+<img src="https://github.com/lirialice/lirialice/blob/main/aa.png" height="80"> 
+<img src="https://github.com/lirialice/lirialice/blob/main/ll.png" height="80"> 
+<img src="https://github.com/lirialice/lirialice/blob/main/ii.png" height="80"> <img src="https://github.com/lirialice/lirialice/blob/main/c.gif" height="85"> 
+<img src="https://github.com/lirialice/lirialice/blob/main/ee.png" height="80"> </p>
