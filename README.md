@@ -11,6 +11,8 @@ With the decentralized nature of blockchains, LiRiAL!CE brings all kinds of capt
 
 ## About us
 
+<img src="https://github.com/lirialice/lirialice/blob/main/alice.png" height="40">
+
 123123
 
 <img src="https://github.com/user-attachments/assets/1092b628-05d6-4d92-a3ce-e4ad5146b06d" width="100">
