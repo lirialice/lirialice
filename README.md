@@ -9,32 +9,30 @@ Just as AL!CE’s imagination knows no limits, the Aliverse has no rules or boun
 
 With the decentralized nature of blockchains, LiRiAL!CE brings all kinds of captivating content for Alicians to enjoy, including webtoons, games, NFTs, and more.
 
-## About us
+## Link
 
-<img src="https://github.com/lirialice/lirialice/blob/main/alice.png" height="40">
-
-123123
-
-<img src="https://github.com/user-attachments/assets/1092b628-05d6-4d92-a3ce-e4ad5146b06d" width="100">
+💫 [Bot](https://lirialice.io)
 
 💫 [Website](https://lirialice.io)
 
+💫 [Telegram](https://lirialice.io)
+
+💫 [X](https://lirialice.io)
+
 💫 [Whitepaper](https://app.gitbook.com/o/WngDNa1CdcHbyrIVqPNs/s/V7NJ8N9e3Pq6kWr1Dy53/)
+
+- - -
 
 ![LRA3](https://github.com/lirialice/lirialice/blob/main/44.png)
 
+<p align="center"> <img src="https://github.com/lirialice/lirialice/blob/main/a.png" height="50"> <img src="https://github.com/lirialice/lirialice/blob/main/l.png" height="50"> <img src="https://github.com/lirialice/lirialice/blob/main/i.png" height="50"> <img src="https://github.com/lirialice/lirialice/blob/main/c.gif" height="80"> <img src="https://github.com/lirialice/lirialice/blob/main/e.png" height="50"> </p>
 
-<!--
-**lirialice/lirialice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0">
+  <tr valign="top">
+    <td><img src="https://github.com/lirialice/lirialice/blob/main/a.png" height="50"></td>
+    <td><img src="https://github.com/lirialice/lirialice/blob/main/l.png" height="50"></td>
+    <td><img src="https://github.com/lirialice/lirialice/blob/main/i.png" height="50"></td>
+    <td><img src="https://github.com/lirialice/lirialice/blob/main/c.gif" height="85"></td>
+    <td><img src="https://github.com/lirialice/lirialice/blob/main/e.png" height="50"></td>
+  </tr>
+</table>
