@@ -1,6 +1,6 @@
 ## LiTTLE RiDDLE? AL!CE
 
-![LRA3](https://github.com/lirialice/lirialice/blob/main/33.png)
+![LRA3](https://github.com/lirialice/lirialice/blob/main/Banner_01.png)
 
 ### Fantasy for Fun, Airdrop for Real!
 LiTTLE RiDDLE? AL!CE, or **LiRiAL!CE** for short, is a character-driven Web3 social experience inspired by the beloved story of _Alice in Wonderland_, born from AL!CE's boundless imagination in the Web3 world.
@@ -23,7 +23,7 @@ With the decentralized nature of blockchains, LiRiAL!CE brings all kinds of capt
 
 - - -
 
-![LRA3](https://github.com/lirialice/lirialice/blob/main/44.png)
+![LRA3](https://github.com/lirialice/lirialice/blob/main/Banner_02.png)
 
 <p align="center">
 <img src="https://github.com/lirialice/lirialice/blob/main/aa.png" height="80"> 
