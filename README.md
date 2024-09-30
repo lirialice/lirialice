@@ -11,7 +11,7 @@ With the decentralized nature of blockchains, LiRiAL!CE brings all kinds of capt
 
 ## Link (will be coming soon)
 
-[![whitepaper](https://img.shields.io/badge/whitepaper-lirial!ce-4ADDF9.svg?style=for-the-badge&logo=gitbook&logoColor=white)](https://app.gitbook.com/o/WngDNa1CdcHbyrIVqPNs/s/V7NJ8N9e3Pq6kWr1Dy53/)
+[![whitepaper](https://img.shields.io/badge/whitepaper-lirial!ce-4ADDF9.svg?style=for-the-badge&logo=gitbook&logoColor=white)](https://commseed.gitbook.io/little-riddle-al-ce/)
 
 [![bot](https://img.shields.io/badge/bot-lirial!ce-4ADDF9.svg?style=for-the-badge&logo=probot&logoColor=white)](https://lirialice.io)
 
