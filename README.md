@@ -23,7 +23,7 @@ With the decentralized nature of blockchains, LiRiAL!CE brings all kinds of capt
 
 - - -
 
-![LRA3](https://github.com/lirialice/lirialice/blob/main/Banner_02.png)
+![LRA3](https://github.com/lirialice/lirialice/blob/main/Banner_02_1.png)
 
 <p align="center">
 <img src="https://github.com/lirialice/lirialice/blob/main/aa.png" height="80"> 
